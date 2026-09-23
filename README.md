@@ -6,7 +6,12 @@ The goal is to bring the familiar low-contrast JetBrains dark UI and SQL syntax 
 
 ## Preview
 
-<!-- Add a screenshot here -->
+
+<img width="1903" height="1036" alt="image" src="https://github.com/user-attachments/assets/7d8575a9-17ac-444a-9208-d87575fbc5e3" />
+
+
+<img width="1913" height="1046" alt="image" src="https://github.com/user-attachments/assets/c4c69c3b-3324-44ac-b9e5-1861b60e6fdd" />
+
 
 ## Installation
 
